@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Hi+%F0%9F%91%8B%2C+I%27m+Abhishek+Choudhary" alt="Name" />
+  <h1>Hi 👋, I'm Abhishek Choudhary</h1>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
-</div>
+<hr/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Developer+in+the+Making;Clean+Coder;Mastering+DSA;Computer+Science+%26+Engineering+(Data+Science)" alt="Taglines" />
