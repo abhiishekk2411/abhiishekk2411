@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+  <!-- Waving Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Dev%20Space&fontSize=40" />
+</div>
 
-<!--
-**abhiishekk2411/abhiishekk2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <!-- LEFT SIDE: Bio & Core Skills -->
+    <td width="55%" valign="top" style="border: none;">
+      
+      <!-- Custom Typing Animation specifically for your goals -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=false&vCenter=true&width=435&lines=Building+with+React+%26+Tailwind;Developing+APIs+with+Node+%26+Express;Doing+DSA+from+scratch" alt="Typing Animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <p align="left">
+        First-year B.Tech student aggressively leveling up in web development. I focus on building highly interactive, logic-driven applications—from styling sleek front-ends to architecting solid backend APIs, while consistently tackling Data Structures and Algorithms.
+      </p>
+
+      <h3>🚀 My Tech Stack</h3>
+      
+      <!-- Front-End Focus (React, Tailwind, JS) -->
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+
+      <!-- Backend & API Focus (Node, Express, Mongo) -->
+      <p align="left">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+
+      <!-- Fundamentals & Problem Solving (C++, HTML/CSS) -->
+      <p align="left">
+         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </p>
+    </td>
+
+    <!-- RIGHT SIDE: Live GitHub Stats Card -->
+    <td width="45%" valign="top" align="center" style="border: none;">
+      <h3>📊 Live Stats</h3>
+      <!-- IMPORTANT: CHANGE 'YOUR_USERNAME' TO YOUR ACTUAL GITHUB USERNAME BELOW -->
+      <img src="https://github-readme-stats.vercel.app/api?username=abhiishekk2411&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
