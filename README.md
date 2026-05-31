@@ -2,8 +2,6 @@
   <h1>Hi 👋, I'm Abhishek Choudhary</h1>
 </div>
 
-<hr/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Developer+in+the+Making;Clean+Coder;Mastering+DSA;Computer+Science+%26+Engineering+(Data+Science)" alt="Taglines" />
 </div>
