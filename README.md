@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Choudhary" alt="Name Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Hi+%F0%9F%91%8B%2C+I%27m+Abhishek+Choudhary" alt="Name" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Clean+Coder+%E2%9C%A8;Mastering+DSA+%E2%9A%94%EF%B8%8F;Computer+Science+%26+Engineering+(Data+Science)+%F0%9F%A7%A0" alt="Tagline Typing SVG" />
+  <img src="https://raw.githubusercontent.com/abhiishekk2411/abhiishekk2411/main/assets/line.gif" width="600" height="2" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Developer+in+the+Making;Clean+Coder;Mastering+DSA;Computer+Science+%26+Engineering+(Data+Science)" alt="Taglines" />
 </div>
 
 <br/>
 
 # 💫 About Me:
 Hi, I'm Abhishek! 👋 I am a first-year B.Tech student studying at the JSS Academy of Technical Education in Noida. I am a passionate web developer focused on building logic-driven, scalable applications. 🎓 1st-Year B.Tech @ JSSATE Noida<br>💻 Web Developer building with the MERN stack (React + Tailwind)<br>🚀 Exploring DSA from scratch in C++<br>🏋️‍♂️ When I'm not coding, you'll find me hitting the gym for my 6-day strength training!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-choudhary-431a29366/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhii_shekk0001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharyabhishek242004@gmail.com) 
