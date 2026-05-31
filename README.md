@@ -1,55 +1,15 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI,%20I%20AM%20ABHISHEK%20CHOUDHARY&fontSize=35&fontColor=ffffff" />
-</div>
+# 💫 About Me:
+Hi, I'm Abhishek! 👋 I am a first-year B.Tech student studying at the JSS Academy of Technical Education in Noida. I am a passionate web developer focused on building logic-driven, scalable applications.<br>1st-Year B.Tech @ JSSATE Noida<br>💻 Web Developer building with the MERN stack (React + Tailwind)<br>🚀 Exploring DSA from scratch in C++<br>🏋️‍♂️ When I'm not coding, you'll find me hitting the gym 6x week
 
-<br>
 
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
-<td width="55%" valign="top" style="border: none;">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-choudhary-431a29366/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhii_shekk0001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharyabhishek242004@gmail.com) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=false&vCenter=true&width=435&lines=Building+with+React+%26+Tailwind;Developing+APIs+with+Node+%26+Express;Doing+DSA+from+scratch" alt="Typing Animation" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhiishekk2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhiishekk2411&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhiishekk2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">First-year B.Tech student aggressively leveling up in web development. I focus on building highly interactive, logic-driven applications—from styling sleek front-ends to architecting solid backend APIs, while consistently tackling Data Structures and Algorithms.</p>
-
-<h3>💻 Tech Stack</h3>
-
-<h4>🌐 Frontend Development</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<h4>⚙️ Backend Development</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<h4>📝 Languages Known</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-<h4>🛠️ Other Things</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-</td>
-
-<td width="45%" valign="top" align="center" style="border: none;">
-<h3>📊 Live GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=abhiishekk2411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br><br>
-<h3>🏆 Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiishekk2411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
