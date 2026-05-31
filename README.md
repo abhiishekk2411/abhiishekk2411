@@ -9,7 +9,7 @@
 <br/>
 
 ### 💫 About Me:
-Hi, I'm Abhishek! 👋 I am a first-year B.Tech student studying at the JSS Academy of Technical Education in Noida. I am a passionate web developer focused on building logic-driven, scalable applications. 🎓 1st-Year B.Tech @ JSSATE Noida<br>💻 Web Developer building with the MERN stack (React + Tailwind)<br>🚀 Exploring DSA from scratch in C++<br>🏋️‍♂️ When I'm not coding, you'll find me hitting the gym for my 6-day strength training!
+Hi, I'm Abhishek! 👋 I am a first-year B.Tech student studying at the JSS Academy of Technical Education in Noida. I am a passionate web developer focused on building logic-driven, scalable applications. 🎓 1st-Year B.Tech @ JSSATE Noida<br>💻 Web Developer building with the MERN stack (React + Tailwind)<br>🚀 Exploring DSA from scratch in C++<br>🏋️‍♂️ When I'm not coding, you'll find me hitting the gym 6x week
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-choudhary-431a29366/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhii_shekk0001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharyabhishek242004@gmail.com)
